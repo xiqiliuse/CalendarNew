@@ -141,6 +141,34 @@ LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:EPDM project 关于亮点问题沟通V3 
+DTSTART;TZID="GMT 标准时间":20230104T140000
+DTEND;TZID="GMT 标准时间":20230104T144500
+CLASS:PUBLIC
+DESCRIPTION:Dear All\,\n\n第二批工业化试制发现的亮点皮革在
+ 客户那边加工零件已经拿回，工艺和质量也已经看过零
+ 件，我们一起做最后的讨论，如没有问题，项目CMT做最
+ 后审批完成，谢谢支持！\n\n \n\n________________________________
+ ________________________________________________ \n\nMicrosoft Teams 会
+ 议 \n\n使用电脑、移动应用或房间设备加入 \n\n点击此处
+ 加入会议 <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODNkY
+ zM0NGUtNTgzNi00MDk5LWI3N2MtOTgzYzNkZWE3MjE3%40thread.v2/0?context=%7b%22Ti
+ d%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%225095be1
+ 3-420b-4c9f-b01d-2db82cea817c%22%7d>  \n\n会议 ID: 379 750 372 287 \n密
+ 码: ouxgbf \n\nDownload Teams <https://www.microsoft.com/en-us/microsoft-
+ teams/download-app>  | 在 web 上加入 <https://www.microsoft.com/micros
+ oft-teams/join-a-meeting> \n\n了解更多 <https://aka.ms/JoinTeamsMeetin
+ g>  | 会议选项 <https://teams.microsoft.com/meetingOptions/?organizerI
+ d=5095be13-420b-4c9f-b01d-2db82cea817c&tenantId=8d4b558f-7b2e-40ba-ad1f-e0
+ 4d79e6265a&threadId=19_meeting_ODNkYzM0NGUtNTgzNi00MDk5LWI3N2MtOTgzYzNkZWE
+ 3MjE3@thread.v2&messageId=0&language=zh-CN>  | 法律 <https://filehub.adm
+ iralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n____________
+ ____________________________________________________________________ \n\n 
+ \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:小寒
 DTSTART;TZID="GMT 标准时间":20230105T000000
 DTEND;TZID="GMT 标准时间":20230106T000000
