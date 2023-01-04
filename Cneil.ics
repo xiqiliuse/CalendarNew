@@ -54,7 +54,22 @@ SUMMARY:TPO颜色梳理会
 DTSTART;TZID="GMT 标准时间":20230104T130000
 DTEND;TZID="GMT 标准时间":20230104T140000
 CLASS:PUBLIC
-DESCRIPTION: \n
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移
+ 动应用或房间设备加入 \n\n点击此处加入会议 <https://teams
+ .microsoft.com/l/meetup-join/19%3ameeting_NjlhNDkwYWEtZjQ2OS00MTIzLTlhNGEt
+ YzY1ZWNhMjRiODY5%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40b
+ a-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22e80660d7-d3bc-410d-9bb1-26d8f92240
+ 84%22%7d>  \n\n会议 ID: 382 957 622 699 \n密码: GaDKYX \n\nDownload Te
+ ams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  | 在 
+ web 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meeting> \
+ n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https:/
+ /teams.microsoft.com/meetingOptions/?organizerId=e80660d7-d3bc-410d-9bb1-2
+ 6d8f9224084&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meet
+ ing_NjlhNDkwYWEtZjQ2OS00MTIzLTlhNGEtYzY1ZWNhMjRiODY5@thread.v2&messageId=0
+ &language=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f
+ -d1ca-436b-832a-1d684ab9ad7e>  \n\n_______________________________________
+ _________________________________________ \n\n \n
 LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
@@ -122,6 +137,54 @@ DESCRIPTION: \n\n_________________________________________________________
  nguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1
  ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
  ______________________________________ \n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:12月ESH安全宣讲
+DTSTART;TZID="GMT 标准时间":20230105T130000
+DTEND;TZID="GMT 标准时间":20230105T133000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移
+ 动应用或房间设备加入 \n\n点击此处加入会议 <https://teams
+ .microsoft.com/l/meetup-join/19%3ameeting_OTkyNTI3NjctNjlkMi00YzZhLWI2YzQt
+ YzFiM2E4OGVmZjNi%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40b
+ a-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%226ca2170c-04b7-4504-af1c-fd12f76925
+ ee%22%7d>  \n\n会议 ID: 329 355 783 612 \n密码: TPBp2x \n\nDownload Te
+ ams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  | 在 
+ web 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meeting> \
+ n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https:/
+ /teams.microsoft.com/meetingOptions/?organizerId=6ca2170c-04b7-4504-af1c-f
+ d12f76925ee&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meet
+ ing_OTkyNTI3NjctNjlkMi00YzZhLWI2YzQtYzFiM2E4OGVmZjNi@thread.v2&messageId=0
+ &language=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f
+ -d1ca-436b-832a-1d684ab9ad7e>  \n\n_______________________________________
+ _________________________________________ \n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPRINT 项目2023
+DTSTART;TZID="GMT 标准时间":20230105T140000
+DTEND;TZID="GMT 标准时间":20230105T150000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移
+ 动应用或房间设备加入 \n\n点击此处加入会议 <https://teams
+ .microsoft.com/l/meetup-join/19%3ameeting_OWJhODk4M2QtNDMzMS00NDAyLTlhMzkt
+ NmVhMjU5NWU4MTI1%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40b
+ a-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%229ae67f36-68a5-4cad-b1c7-2cc4749680
+ eb%22%7d>  \n\n会议 ID: 326 358 901 14 \n密码: cdodPN \n\nDownload Tea
+ ms <https://www.microsoft.com/en-us/microsoft-teams/download-app>  | 在 w
+ eb 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meeting> \n
+ \n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://
+ teams.microsoft.com/meetingOptions/?organizerId=9ae67f36-68a5-4cad-b1c7-2c
+ c4749680eb&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeti
+ ng_OWJhODk4M2QtNDMzMS00NDAyLTlhMzktNmVhMjU5NWU4MTI1@thread.v2&messageId=0&
+ language=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-
+ d1ca-436b-832a-1d684ab9ad7e>  \n\n________________________________________
+ ________________________________________ \n\n \n
 LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
