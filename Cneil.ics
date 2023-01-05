@@ -189,6 +189,33 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:G18改善配方沟通
+DTSTART;TZID="GMT 标准时间":20230110T130000
+DTEND;TZID="GMT 标准时间":20230110T133000
+CLASS:PUBLIC
+DESCRIPTION:金龙，\n\n上次的酸性改善我们挤出了800米出现
+ 了轻微线条，2000米后实在严重就停机清清洗了，你看看
+ 配方上再做些色母调整我们同批次色母再试生产下，谢
+ 谢\n\n___________________________________________________________________
+ _____________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移动应用
+ 或房间设备加入 \n\n点击此处加入会议 <https://teams.microsof
+ t.com/l/meetup-join/19%3ameeting_MjJjZDAyYzYtNGNmYy00MTg2LTkzYjktMDdlODcwN
+ jMwMDgx%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e0
+ 4d79e6265a%22%2c%22Oid%22%3a%22bb7080c9-7fd4-4ab7-b271-a9a49380fc23%22%7d>
+   \n\n会议 ID: 334 102 301 481 \n密码: dzSZZc \n\nDownload Teams <http
+ s://www.microsoft.com/en-us/microsoft-teams/download-app>  | 在 web 上
+ 加入 <https://www.microsoft.com/microsoft-teams/join-a-meeting> \n\n了
+ 解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://teams
+ .microsoft.com/meetingOptions/?organizerId=bb7080c9-7fd4-4ab7-b271-a9a4938
+ 0fc23&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_Mj
+ JjZDAyYzYtNGNmYy00MTg2LTkzYjktMDdlODcwNjMwMDgx@thread.v2&messageId=0&langu
+ age=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-
+ 436b-832a-1d684ab9ad7e>  \n\n_____________________________________________
+ ___________________________________ \n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20230111T083500
 DTEND;TZID="GMT 标准时间":20230111T092500
