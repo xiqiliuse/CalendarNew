@@ -141,6 +141,32 @@ LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TPV localization 工业化试制结果讨论
+DTSTART;TZID="GMT 标准时间":20230111T140000
+DTEND;TZID="GMT 标准时间":20230111T150000
+CLASS:PUBLIC
+DESCRIPTION:各位好！TPV localization 1000米工业化试制已完成
+ ，邀请各位就此次试制情况及结果进行讨论，以制定下
+ 一步计划。感谢！\n\n______________________________________________
+ __________________________________ \n\nMicrosoft Teams 会议 \n\n使用
+ 电脑、移动应用或房间设备加入 \n\n点击此处加入会议 <h
+ ttps://teams.microsoft.com/l/meetup-join/19%3ameeting_OGIwZjRiZGItYmYyZS00
+ OGMzLTg1MzItZTY2Mjk3ZmM2OTQ3%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b5
+ 58f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%227c604b22-261c-427c-ac7
+ 6-7247982d3dce%22%7d>  \n\n会议 ID: 329 418 592 83 \n密码: H6mEqm \n\n
+ Download Teams <https://www.microsoft.com/en-us/microsoft-teams/download-a
+ pp>  | 在 web 上加入 <https://www.microsoft.com/microsoft-teams/join-a
+ -meeting> \n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选
+ 项 <https://teams.microsoft.com/meetingOptions/?organizerId=7c604b22-261c
+ -427c-ac76-7247982d3dce&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&thre
+ adId=19_meeting_OGIwZjRiZGItYmYyZS00OGMzLTg1MzItZTY2Mjk3ZmM2OTQ3@thread.v2
+ &messageId=0&language=zh-CN>  | 法律 <https://filehub.admiralcloud.com/d
+ l/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n___________________________
+ _____________________________________________________ \n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20230112T083500
 DTEND;TZID="GMT 标准时间":20230112T092500
@@ -538,7 +564,7 @@ LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:工厂站会+Gemba Walk
+SUMMARY:已取消: 工厂站会+Gemba Walk
 DTSTART;TZID="GMT 标准时间":20230120T100000
 DTEND;TZID="GMT 标准时间":20230120T103000
 CLASS:PUBLIC
@@ -900,7 +926,7 @@ LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:工厂站会+Gemba Walk
+SUMMARY:已取消: 工厂站会+Gemba Walk
 DTSTART;TZID="GMT 标准时间":20230127T100000
 DTEND;TZID="GMT 标准时间":20230127T103000
 CLASS:PUBLIC
