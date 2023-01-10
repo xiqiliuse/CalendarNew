@@ -87,30 +87,6 @@ LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Datacenter-PPMS 定期回顾（项目工艺等）
-DTSTART;TZID="GMT 标准时间":20230110T160000
-DTEND;TZID="GMT 标准时间":20230110T170000
-CLASS:PUBLIC
-DESCRIPTION: \n___________________________________________________________
- _____________________ \nMicrosoft Teams 会议 \n使用电脑、移动应
- 用或房间设备加入 \n点击此处加入会议 <https://teams.microso
- ft.com/l/meetup-join/19%3ameeting_NjRhYTcwZmUtZWRjMi00YTc0LWJlYTEtNmU4NWFj
- YjM2NDY0%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e
- 04d79e6265a%22%2c%22Oid%22%3a%229ae67f36-68a5-4cad-b1c7-2cc4749680eb%22%7d
- >  \n会议 ID: 393 133 172 481 \n密码: BdQE7k \nDownload Teams <https:/
- /www.microsoft.com/en-us/microsoft-teams/download-app>  | 在 web 上加
- 入 <https://www.microsoft.com/microsoft-teams/join-a-meeting> \n了解更
- 多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://teams.micro
- soft.com/meetingOptions/?organizerId=9ae67f36-68a5-4cad-b1c7-2cc4749680eb&
- tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_NjRhYTcw
- ZmUtZWRjMi00YTc0LWJlYTEtNmU4NWFjYjM2NDY0@thread.v2&messageId=0&language=zh
- -CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-8
- 32a-1d684ab9ad7e>  \n_____________________________________________________
- ___________________________ \n 
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20230111T083500
 DTEND;TZID="GMT 标准时间":20230111T092500
