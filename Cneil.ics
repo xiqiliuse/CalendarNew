@@ -306,6 +306,38 @@ LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:POE back up-SK 891  Kick off
+DTSTART;TZID="GMT 标准时间":20230209T100000
+DTEND;TZID="GMT 标准时间":20230209T110000
+CLASS:PUBLIC
+DESCRIPTION:Huang\, Haitao02 (uie80690) 已与你共享 OneDrive for Busin
+ ess 文件。若要查看它，请单击下面的链接。\n\n\nKick off_P
+ OE SK 891.pptx <https://continental-my.sharepoint.com/personal/uie80690_co
+ ntiwan_com/Documents/桌面/项目文件/localization/SK%20891/Kick%20off_
+ POE%20SK%20891.pptx?web=1> \n\n\n各位好！由于POE DF810(XR67003)有
+ 断料风险，现开发SK 891（XR43640）作为Back up。目前实验室
+ 阶段验证已完成\,现准备拉试单进行全性能及应用加工验
+ 证。请各位协助确认相关事宜，谢谢！\n\n \n\n______________
+ __________________________________________________________________ \n\nMic
+ rosoft Teams 会议 \n\n使用电脑、移动应用或房间设备加入 \
+ n\n点击此处加入会议 <https://teams.microsoft.com/l/meetup-join/19%
+ 3ameeting_ZGE0NTE3OTgtMmExOC00ZmUyLWE3NjctNjVmYjY1YjM3NzE2%40thread.v2/0?c
+ ontext=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%
+ 22%3a%227c604b22-261c-427c-ac76-7247982d3dce%22%7d>  \n\n会议 ID: 388 51
+ 9 311 08 \n密码: GGv8h3 \n\nDownload Teams <https://www.microsoft.com/en
+ -us/microsoft-teams/download-app>  | 在 web 上加入 <https://www.micros
+ oft.com/microsoft-teams/join-a-meeting> \n\n了解更多 <https://aka.ms/J
+ oinTeamsMeeting>  | 会议选项 <https://teams.microsoft.com/meetingOptio
+ ns/?organizerId=7c604b22-261c-427c-ac76-7247982d3dce&tenantId=8d4b558f-7b2
+ e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_ZGE0NTE3OTgtMmExOC00ZmUyLWE3N
+ jctNjVmYjY1YjM3NzE2@thread.v2&messageId=0&language=zh-CN>  | 法律 <https
+ ://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n
+ \n________________________________________________________________________
+ ________ \n\n \n
+LOCATION:Microsoft Teams 会议\; TE_ZG_MR_CBC211_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20230210T083500
 DTEND;TZID="GMT 标准时间":20230210T092500
