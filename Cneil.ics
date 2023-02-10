@@ -331,6 +331,30 @@ LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:工艺安全巡检
+DTSTART;TZID="GMT 标准时间":20230216T130000
+DTEND;TZID="GMT 标准时间":20230216T143000
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移
+ 动应用或房间设备加入 \n\n点击此处加入会议 <https://teams
+ .microsoft.com/l/meetup-join/19%3ameeting_NmE4NDI5YTgtYzhjYy00ZjBhLTlkOWYt
+ NWE4M2Q0NWEwOThj%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40b
+ a-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%226ca2170c-04b7-4504-af1c-fd12f76925
+ ee%22%7d>  \n\n会议 ID: 321 054 775 823 \n密码: DmQeQB \n\n下载 Team
+ s <https://www.microsoft.com/en-us/microsoft-teams/download-app>  | 在 we
+ b 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meeting> \n\
+ n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://t
+ eams.microsoft.com/meetingOptions/?organizerId=6ca2170c-04b7-4504-af1c-fd1
+ 2f76925ee&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meetin
+ g_NmE4NDI5YTgtYzhjYy00ZjBhLTlkOWYtNWE4M2Q0NWEwOThj@thread.v2&messageId=0&l
+ anguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d
+ 1ca-436b-832a-1d684ab9ad7e>  \n\n_________________________________________
+ _______________________________________ \n\n \n
+LOCATION:工厂大厅集合
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20230217T083500
 DTEND;TZID="GMT 标准时间":20230217T092500
