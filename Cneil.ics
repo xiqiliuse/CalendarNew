@@ -520,6 +520,40 @@ LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:差旅订票平台-EZWAY APP更新培训
+DTSTART;TZID="GMT 标准时间":20230224T100000
+DTEND;TZID="GMT 标准时间":20230224T110000
+CLASS:PUBLIC
+DESCRIPTION:亲爱的同事们：\n\nDear colleagues\,\n\n \n\n为员工
+ 有更好的使用体验，公司差旅订票平台-EZWAY 将进行升级
+ 更新，原EZWAY APP将于2月27日停止使用并更新至新版APP，
+ 此次培训将介绍新版APP的使用方法及注意事项。\n\nProvide
+  employees with a good use experience\, Company ticket APP-EZWAY will be u
+ pgraded. The old APP will be discontinued and updated to the new APP on Fe
+ bruary 27. This training will introduce the use methods and precautions of
+  the new version of APP.\n\n \n\n请大家相互转告，期待您的参
+ 加。\n\nPlease tell each other and look forward to your participation\n\
+ n \n\n下载方式(Download )：\n\n\n\n\n\n \n\n_________________________
+ _______________________________________________________ \n\nMicrosoft Team
+ s 会议 \n\n使用电脑、移动应用或会议室设备加入 \n\n单
+ 击此处以加入会议 <https://teams.microsoft.com/l/meetup-join/19%3am
+ eeting_NzJhMTViMDctMWM4Mi00MDY0LTk1MjMtNGYzZDY1Mzc3OTA2%40thread.v2/0?cont
+ ext=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%
+ 3a%2234fe0df4-28d5-4101-b01d-9972a28f1c99%22%7d>  \n\n会议 ID: 390 062 7
+ 53 740 \n密码: nHZQeX \n\n下载 Teams <https://www.microsoft.com/en-us/
+ microsoft-teams/download-app>  | 在 web 上加入 <https://www.microsoft.
+ com/microsoft-teams/join-a-meeting> \n\n了解更多 <https://aka.ms/JoinT
+ eamsMeeting>  | 会议选项 <https://teams.microsoft.com/meetingOptions/?
+ organizerId=34fe0df4-28d5-4101-b01d-9972a28f1c99&tenantId=8d4b558f-7b2e-40
+ ba-ad1f-e04d79e6265a&threadId=19_meeting_NzJhMTViMDctMWM4Mi00MDY0LTk1MjMtN
+ GYzZDY1Mzc3OTA2@thread.v2&messageId=0&language=zh-CN>  | 法律 <https://f
+ ilehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n__
+ __________________________________________________________________________
+ ____ \n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:工厂站会+Gemba Walk
 DTSTART;TZID="GMT 标准时间":20230224T100000
 DTEND;TZID="GMT 标准时间":20230224T103000
