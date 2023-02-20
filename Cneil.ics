@@ -1049,6 +1049,24 @@ LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TPO hylite workshop
+DTSTART;TZID="GMT 标准时间":20230315T130000
+DTEND;TZID="GMT 标准时间":20230315T160000
+CLASS:PUBLIC
+DESCRIPTION:Dear all\,\n\n \n\n开这个会，主要有以下几个想法
+ ：\n\n \n\n1.     信息共享和收集：\n\na.      Hylite 产品经过
+ 几轮的试制，现在有点进展和大家分享一下。\n\nb.     客
+ 户端对hylite 产品的期望或者需求、特别是色偏之类的特
+ 定要求。\n\nc.      Tier1 后处理的过程。\n\n \n\n2.     趋势
+ ：\n\na.      客户端颜色趋势\n\nb.     产品手感趋势\n\nc.   
+    应用的趋势等。\n\n \n\n3.     需要解决的难点以及后续
+ 的行动方案。\n\n \n\n \n\n如果我考虑步骤，请大家踊跃补
+ 充。 具体行程会提前一点公布，先book 一下大家的时间
+ 。\n\n \n\n \n\n \n\n \n\n \n\n \n
+LOCATION:TE_ZG_MR_CBC221_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CBS@Operations community - Monthly phone-call - Asia & Europe
 DTSTART;TZID="GMT 标准时间":20230315T160000
 DTEND;TZID="GMT 标准时间":20230315T170000
