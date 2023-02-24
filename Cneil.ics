@@ -93,7 +93,7 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PPI内部项目回顾会议
-DTSTART;TZID="GMT 标准时间":20230224T150000
+DTSTART;TZID="GMT 标准时间":20230224T151500
 DTEND;TZID="GMT 标准时间":20230224T160000
 CLASS:PUBLIC
 DESCRIPTION:汇报各自项目：更新项目进度、风险、完成度
@@ -109,29 +109,25 @@ LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Plato e1ns -general user meeting in 2023
+SUMMARY:Abgesagt: Plato e1ns -general user meeting in 2023
 DTSTART;TZID="GMT 标准时间":20230224T180000
 DTEND;TZID="GMT 标准时间":20230224T190000
 CLASS:PUBLIC
-DESCRIPTION:Dear FMEA user\n\n \n\nI have scheduled that monthly meeting t
- o answer questions regarding the FMEA tool Plato e1ns. It is an option to 
- ask questions regarding the tool\, providing feedback and share informatio
- n with other FMEA tool users in the SSL.\n\nYou are of course free to part
- icipate!\n\nRegards \n\n \n\nHenning\n\n \n\n \n\n________________________
- ________________________________________________________ \n\nMicrosoft Tea
- ms-Besprechung \n\nNehmen Sie von Ihrem Computer oder der mobilen App aus 
- teil \n\nKlicken Sie hier\, um an der Besprechung teilzunehmen <https://te
- ams.microsoft.com/l/meetup-join/19%3ameeting_MGFhYzcwYjYtYTI0ZC00MDQ3LTk4Z
- mMtNDE1MGI1Y2E1NGE2%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-
- 40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%225fa49eff-e704-4687-be55-a4395f9
- ad37e%22%7d>  \n\nWeitere Infos <https://aka.ms/JoinTeamsMeeting>  | Bespr
- echungsoptionen <https://teams.microsoft.com/meetingOptions/?organizerId=5
- fa49eff-e704-4687-be55-a4395f9ad37e&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d7
- 9e6265a&threadId=19_meeting_MGFhYzcwYjYtYTI0ZC00MDQ3LTk4ZmMtNDE1MGI1Y2E1NG
- E2@thread.v2&messageId=0&language=de-DE>  | Rechtliche Hinweise <https://f
- ilehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n__
- __________________________________________________________________________
- ____ \n
+DESCRIPTION:I have to cancel the FMEA meeting for today!\n\n______________
+ __________________________________________________________________ \n\nMic
+ rosoft Teams-Besprechung \n\nNehmen Sie von Ihrem Computer oder der mobile
+ n App aus teil \n\nKlicken Sie hier\, um an der Besprechung teilzunehmen <
+ https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGFhYzcwYjYtYTI0ZC0
+ 0MDQ3LTk4ZmMtNDE1MGI1Y2E1NGE2%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b
+ 558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%225fa49eff-e704-4687-be
+ 55-a4395f9ad37e%22%7d>  \n\nWeitere Infos <https://aka.ms/JoinTeamsMeeting
+ >  | Besprechungsoptionen <https://teams.microsoft.com/meetingOptions/?org
+ anizerId=5fa49eff-e704-4687-be55-a4395f9ad37e&tenantId=8d4b558f-7b2e-40ba-
+ ad1f-e04d79e6265a&threadId=19_meeting_MGFhYzcwYjYtYTI0ZC00MDQ3LTk4ZmMtNDE1
+ MGI1Y2E1NGE2@thread.v2&messageId=0&language=de-DE>  | Rechtliche Hinweise 
+ <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7
+ e>  \n\n__________________________________________________________________
+ ______________ \n
 LOCATION:Microsoft Teams-Besprechung
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
