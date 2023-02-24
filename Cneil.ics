@@ -68,23 +68,6 @@ LOCATION:工厂大厅
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PPI内部项目回顾会议
-DTSTART;TZID="GMT 标准时间":20230224T140000
-DTEND;TZID="GMT 标准时间":20230224T150000
-CLASS:PUBLIC
-DESCRIPTION:汇报各自项目：更新项目进度、风险、完成度
- 、状态等信息。项目文件 链接 <https://continental.sharepoint.c
- om/:x:/r/teams/team_10010014/Shared%20Documents/General/05%20Project%20Man
- agement/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/%E9%A1%B9%E7%9B%AE%E8%BF%BD%E
- 8%B8%AA%E8%A1%A8-2022.xlsx?d=we8bae9ac8ac04b039ca7b97d9322f73c&csf=1&web=1
- &e=DDYS9T> \n\n项目要求：\n\n*  项目名称，中英文描述；\n\n
- *  项目描述（KPI）、项目风险 、行动计划，要有具体内
- 容。\n\n________________________________________________________________
- _____\n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:前期开发和客户项目回顾
 DTSTART;TZID="GMT 标准时间":20230224T150000
 DTEND;TZID="GMT 标准时间":20230224T170000
@@ -105,6 +88,23 @@ DESCRIPTION: \n\n_________________________________________________________
  &language=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f
  -d1ca-436b-832a-1d684ab9ad7e>  \n\n_______________________________________
  _________________________________________ \n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI内部项目回顾会议
+DTSTART;TZID="GMT 标准时间":20230224T150000
+DTEND;TZID="GMT 标准时间":20230224T160000
+CLASS:PUBLIC
+DESCRIPTION:汇报各自项目：更新项目进度、风险、完成度
+ 、状态等信息。项目文件 链接 <https://continental.sharepoint.c
+ om/:x:/r/teams/team_10010014/Shared%20Documents/General/05%20Project%20Man
+ agement/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/%E9%A1%B9%E7%9B%AE%E8%BF%BD%E
+ 8%B8%AA%E8%A1%A8-2022.xlsx?d=we8bae9ac8ac04b039ca7b97d9322f73c&csf=1&web=1
+ &e=DDYS9T> \n\n项目要求：\n\n*  项目名称，中英文描述；\n\n
+ *  项目描述（KPI）、项目风险 、行动计划，要有具体内
+ 容。\n\n________________________________________________________________
+ _____\n
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
@@ -552,6 +552,26 @@ DTEND;TZID="GMT 标准时间":20230310T103000
 CLASS:PUBLIC
 DESCRIPTION: \n\n \n
 LOCATION:工厂大厅
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:technical workshop: BCZ & FS
+DTSTART;TZID="GMT 标准时间":20230310T130000
+DTEND;TZID="GMT 标准时间":20230310T170000
+CLASS:PUBLIC
+DESCRIPTION:提前准备，一起参加\n\n \n\n-----原始约会-----\n
+ 发件人: Wu\, Feifei02 (uic28533) <feifei.2.wu@contitech.cn <mailto:feif
+ ei.2.wu@contitech.cn> > \n发送时间: 2023年2月23日 15:46\n收件人:
+  Wu\, Feifei02 (uic28533)\; Chen\, Hongmei\; Chen\, Hikey (uic13186)\; Hua
+ ng\, Yuyang\n主题: technical workshop: BCZ & FS\n时间: 2023年3月10
+ 日星期五 13:00-17:00(UTC+08:00) 北京，重庆，香港特别行政
+ 区，乌鲁木齐。\n地点: TE_C0_MR_FS_Trainingroom_2ndfloor\n\n \n\nT
+ opics:\n\n \n\n1.	Foam thickness variation in CD\;\n2.	Extrusion P2 variat
+ ion\;\n3.	Width shrinkage during WBL printing\;\n4.	NPM localization for E
+ xtrusion\;\n\n \n\n@Huang\, Yuyang <mailto:yuyang.huang@benecke-changshun.
+ com.cn> \, Desmond\, Please forward calendar to your team. Thank you. \n\n
+  \n
+LOCATION:TE_C0_MR_FS_Trainingroom_2ndfloor
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
