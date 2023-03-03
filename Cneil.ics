@@ -314,6 +314,33 @@ LOCATION:Microsoft Teams 会议
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TESLA项目上新TPV材料切换讨论
+DTSTART;TZID="GMT 标准时间":20230309T140000
+DTEND;TZID="GMT 标准时间":20230309T150000
+CLASS:PUBLIC
+DESCRIPTION:Dear All\,\n\n我们开发的道恩的TPV在TESLA Model 3项
+ 目上完成了材料开发，组织会议大家一起讨论下，这个
+ 新材料在TESLA Model 3项目上切换的可行性，提前感谢大家
+ 的参与，谢谢！ \n\n________________________________________________
+ ________________________________ \n\nMicrosoft Teams 会议 \n\n使用电
+ 脑、移动应用或会议室设备加入 \n\n单击此处以加入会议
+  <https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTM1NTRjNmYtNGRkM
+ S00OTE2LWIwZTgtNjg3MjliMjcxOTIy%40thread.v2/0?context=%7b%22Tid%22%3a%228d
+ 4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%225095be13-420b-4c9f-
+ b01d-2db82cea817c%22%7d>  \n\n会议 ID: 319 080 526 119 \n密码: QmkCoU 
+ \n\n下载 Teams <https://www.microsoft.com/en-us/microsoft-teams/download
+ -app>  | 在 web 上加入 <https://www.microsoft.com/microsoft-teams/join
+ -a-meeting> \n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议
+ 选项 <https://teams.microsoft.com/meetingOptions/?organizerId=5095be13-4
+ 20b-4c9f-b01d-2db82cea817c&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&t
+ hreadId=19_meeting_MTM1NTRjNmYtNGRkMS00OTE2LWIwZTgtNjg3MjliMjcxOTIy@thread
+ .v2&messageId=0&language=zh-CN>  | 法律 <https://filehub.admiralcloud.co
+ m/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n________________________
+ ________________________________________________________ \n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PPI月会
 DTSTART;TZID="GMT 标准时间":20230309T150000
 DTEND;TZID="GMT 标准时间":20230309T170000
