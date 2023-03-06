@@ -5,138 +5,6 @@ METHOD:PUBLISH
 X-MS-OLK-FORCEINSPECTOROPEN:TRUE
 BEGIN:VEVENT
 SUMMARY:PPI早会
-DTSTART;TZID="GMT 标准时间":20230303T083500
-DTEND;TZID="GMT 标准时间":20230303T092500
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑或移
- 动应用加入 \n\n点击此处加入会议 <https://teams.microsoft.com/
- l/meetup-join/19%3ameeting_M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE
- 4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6
- 265a%22%2c%22Oid%22%3a%22f197facf-a886-4339-8104-b345536e433f%22%7d>  \n\n
- 了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://te
- ams.microsoft.com/meetingOptions/?organizerId=f197facf-a886-4339-8104-b345
- 536e433f&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
- _M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE4@thread.v2&messageId=0&la
- nguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1
- ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
- ______________________________________ \n\n \n
-LOCATION:Microsoft Teams 会议
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SSL operation visiting CAS
-DTSTART;TZID="GMT 标准时间":20230303T125000
-DTEND;TZID="GMT 标准时间":20230303T150000
-CLASS:PUBLIC
-DESCRIPTION:Block your time in advance.\n\nThanks!\n\n \n\n_______________
- ______________________________\nFrom: Jin\, Lei (uie31783) \nSent: Thursda
- y\, March 2\, 2023 1:52 PM\nTo: Ma\, Siyuan <Siyuan.Ma@benecke-changshun.c
- om.cn <mailto:Siyuan.Ma@benecke-changshun.com.cn> >\; Liu\, Kai05 (uia6943
- 9) <kai.5.liu@benecke-changshun.com.cn <mailto:kai.5.liu@benecke-changshun
- .com.cn> >\; Li\, Xiaodong03 (uib07707) <xiaodong.3.li@benecke-changshun.c
- om.cn <mailto:xiaodong.3.li@benecke-changshun.com.cn> >\; Zou\, Yang (uia6
- 9734) <yang.zou@benecke-changshun.com.cn <mailto:yang.zou@benecke-changshu
- n.com.cn> >\; Zhu\, Yefei (uib46900) <yefei.zhu@benecke-changshun.com.cn <
- mailto:yefei.zhu@benecke-changshun.com.cn> >\; Kang\, Bill (Kangf) <Fujun.
- Kang@contitech.cn <mailto:Fujun.Kang@contitech.cn> >\; Liu\, Arvin <arvin.
- liu@ec.contitech.cn <mailto:arvin.liu@ec.contitech.cn> >\; Yao\, Tomi (uic
- 25333) <tomi.yao@contitech.cn <mailto:tomi.yao@contitech.cn> >\; Wu\, Feif
- ei02 (uic28533) <feifei.2.wu@contitech.cn <mailto:feifei.2.wu@contitech.cn
- > >\; Shen\, Sylvia (uie70861) <sylvia.shen@continental.com <mailto:sylvia
- .shen@continental.com> >\; Sun\, Qinyuan <qinyuan.sun@continental-corporat
- ion.com <mailto:qinyuan.sun@continental-corporation.com> >\; Zou\, Jinda <
- jinda.zou@continental-corporation.com <mailto:jinda.zou@continental-corpor
- ation.com> >\nCc: Gao\, Yuegang (uia44709) <yuegang.gao@benecke-changzhou.
- com.cn <mailto:yuegang.gao@benecke-changzhou.com.cn> >\; Teng\, Dayong <da
- yong.teng@benecke-changshun.com.cn <mailto:dayong.teng@benecke-changshun.c
- om.cn> >\; Tian\, Richard (tianm) <ming.tian@contitech.cn <mailto:ming.tia
- n@contitech.cn> >\nSubject: SSL operation visiting CAS\n\n \n\nHello all\,
- \n\n时间: Mar.3rd 中午12:50 SSL各位同事在CAS公司门口集合\n\
- n地址：大陆汽车系统（常熟）有限公司  ，东南大道58号
- \n\nSSL人员名单：\n\n\n\n@Zou\, Jinda <mailto:jinda.zou@continental-c
- orporation.com> \,Jinda\, 帮忙附上agenda，谢谢。\n\nNote：建议S
- SL的各位同事穿带有公司logo的服装，为尽量减少CAS安排
- ，大家提前准备好安全鞋进入CAS车间。\n\n \n\n时间仓促
- ，感谢BCZ和BCC对本次活动的支持。对于本次SSL的参观，
- 特别感谢孙总和Jinda百忙之中拨冗安排。\n\n \n\n谢谢！\n\
- n \n\n顺颂商祺 / Best Regards / Mit den besten Grüßen!\n\n          
-                                   \n\n \n\nJin Lei/金磊\n\nSenior Progra
- m Management Engineer FS SSL CSHZ\n\n \n\nSurface Solutions\n\n \n\nVisito
- r address/地址:\n\nContiTech China Rubber & Plastics Technology Ltd\n\n
- 康迪泰克 (中国) 橡塑技术有限公司\n\nNo.60 Jiulong Road CNZ\,
-  215500 Changshu\, Jiangsu Province\, P.R. China\n江苏省常熟市高新
- 技术产业开发区久隆路60号\n\n \n\nPhone: +86 13815280191\n\nE-Ma
- il：lei.jin@contitech.cn <mailto:lei.jin@contitech.cn> \n\nWebsite: http:
- //www.contitech.cn <http://www.contitech.cn/> \n\n                        
-                                                             \n\nProprietar
- y and confidential. Distribution only by express authority of Continental 
- AG or its subsidiaries. \n\n \n\n \n\nInternal\n
-LOCATION:大陆汽车系统（常熟）有限公司
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ContiTech SSL Operation Visit
-DTSTART;TZID="GMT 标准时间":20230303T130000
-DTEND;TZID="GMT 标准时间":20230303T150000
-CLASS:PUBLIC
-DESCRIPTION:Hello SSL Operation Team\,\n\n \n\nWelcome to visit our plant\
- , attached picture you could find the detailed agenda.\n\n\n\n \n\n \n\n \
- n\nMit freundlichen Grüßen/Best regards\n\nJinda ZOU(Mr)/邹金达\n\nSe
- gment Manager Machining\n\nPlant Changshu\n\nHydraulic Brake Systems (HBS)
- \n\nSafety and Motion (SAM)\n\nAutomotive\n\nVisitor address / Invoice add
- ress:\n\nContinental Automotive Systems (Changshu) Co.\,Ltd\n\nNo.58 Dongn
- an Road\,CSEDZ\,215500 Changshu\,Jiangsu Province\,P.R.China.\n\nPhone: +8
- 6 512 5235 2094\n\nMobile: +86 151 5179 8581\n\nE-Mail: Jinda.Zou@continen
- tal.com <mailto:Jinda.Zou@continental.com> \n\nWeb: www.continental-automo
- tive.com <http://www.continental-automotive.com> \n\n \n\n \n
-LOCATION:AU_CG_MR_T01\; AU_CG_MR_T02
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:前期开发和客户项目回顾
-DTSTART;TZID="GMT 标准时间":20230303T150000
-DTEND;TZID="GMT 标准时间":20230303T170000
-CLASS:PUBLIC
-DESCRIPTION: \n\n_________________________________________________________
- _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑、移
- 动应用或房间设备加入 \n\n点击此处加入会议 <https://teams
- .microsoft.com/l/meetup-join/19%3ameeting_OGQ2ZTZjZGYtYjUyMS00NmI1LTkwYjIt
- MTk5ZTRmMDZhZWVi%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40b
- a-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22e80660d7-d3bc-410d-9bb1-26d8f92240
- 84%22%7d>  \n\n会议 ID: 325 668 045 778 \n密码: 9Wu959 \n\nDownload Te
- ams <https://www.microsoft.com/en-us/microsoft-teams/download-app>  | 在 
- web 上加入 <https://www.microsoft.com/microsoft-teams/join-a-meeting> \
- n\n了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https:/
- /teams.microsoft.com/meetingOptions/?organizerId=e80660d7-d3bc-410d-9bb1-2
- 6d8f9224084&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meet
- ing_OGQ2ZTZjZGYtYjUyMS00NmI1LTkwYjItMTk5ZTRmMDZhZWVi@thread.v2&messageId=0
- &language=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f
- -d1ca-436b-832a-1d684ab9ad7e>  \n\n_______________________________________
- _________________________________________ \n\n \n
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:惊蛰
-DTSTART;TZID="GMT 标准时间":20230306T000000
-DTEND;TZID="GMT 标准时间":20230307T000000
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:中国
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:惊蛰
-DTSTART;TZID="GMT 标准时间":20230306T000000
-DTEND;TZID="GMT 标准时间":20230307T000000
-CLASS:PUBLIC
-DESCRIPTION:
-LOCATION:中国
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PPI早会
 DTSTART;TZID="GMT 标准时间":20230306T083500
 DTEND;TZID="GMT 标准时间":20230306T092500
 CLASS:PUBLIC
@@ -1277,6 +1145,59 @@ DESCRIPTION:Dear FMEA user\n\n \n\nI have scheduled that monthly meeting t
  __________________________________________________________________________
  ____ \n
 LOCATION:Microsoft Teams-Besprechung
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20230403T083500
+DTEND;TZID="GMT 标准时间":20230403T092500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑或移
+ 动应用加入 \n\n点击此处加入会议 <https://teams.microsoft.com/
+ l/meetup-join/19%3ameeting_M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE
+ 4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6
+ 265a%22%2c%22Oid%22%3a%22f197facf-a886-4339-8104-b345536e433f%22%7d>  \n\n
+ 了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://te
+ ams.microsoft.com/meetingOptions/?organizerId=f197facf-a886-4339-8104-b345
+ 536e433f&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
+ _M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE4@thread.v2&messageId=0&la
+ nguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1
+ ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
+ ______________________________________ \n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPI早会
+DTSTART;TZID="GMT 标准时间":20230404T083500
+DTEND;TZID="GMT 标准时间":20230404T092500
+CLASS:PUBLIC
+DESCRIPTION: \n\n_________________________________________________________
+ _______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑或移
+ 动应用加入 \n\n点击此处加入会议 <https://teams.microsoft.com/
+ l/meetup-join/19%3ameeting_M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE
+ 4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6
+ 265a%22%2c%22Oid%22%3a%22f197facf-a886-4339-8104-b345536e433f%22%7d>  \n\n
+ 了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://te
+ ams.microsoft.com/meetingOptions/?organizerId=f197facf-a886-4339-8104-b345
+ 536e433f&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
+ _M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE4@thread.v2&messageId=0&la
+ nguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1
+ ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
+ ______________________________________ \n\n \n
+LOCATION:Microsoft Teams 会议
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:退库色母粒后续问题解决
+DTSTART;TZID="GMT 标准时间":20230404T103000
+DTEND;TZID="GMT 标准时间":20230404T110000
+CLASS:PUBLIC
+DESCRIPTION:大家好，为了配合解决自制色母粒析出问题，
+ 色母粒现场已在陆续接受色母粒退库，但退库色母粒后
+ 续也需要有解决措施，特邀请大家一起讨论。\n\n \n
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 END:VCALENDAR
