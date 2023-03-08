@@ -633,8 +633,8 @@ LOCATION:Microsoft Teams-Besprechung
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blocker CBS R&D Community Call (Americas & Europe (optional)) - Sa
- fe the date
+SUMMARY:Abgesagt: Blocker CBS R&D Community Call (Americas & Europe (optio
+ nal)) - Safe the date
 DTSTART;TZID="GMT 标准时间":20230323T230000
 DTEND;TZID="GMT 标准时间":20230323T234500
 CLASS:PUBLIC
